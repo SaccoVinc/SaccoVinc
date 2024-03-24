@@ -6,7 +6,10 @@
 * 💻Fullstack Web Dev
 * ⚙️Tech Geek 
 * 🌍Matera and Turin, Italy
-* 🛠️Currently focused on productivity trough (Agile) Scrum based Frameworks
+
+### I'm currently working on 🛠️
+* Productivity trough (Agile) Scrum based Frameworks.
+* Learning Gpu programming.
 
 # Coding And Mark-Up Languages
 
