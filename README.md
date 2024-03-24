@@ -7,6 +7,8 @@
 * ⚙️Tech Geek 
 * 🌍Matera and Turin, Italy
 
+* # Currently focused on productivity trough (Agile) Scrum based Frameworks
+
 # Coding And Mark-Up Languages
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
